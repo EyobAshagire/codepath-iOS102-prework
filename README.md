@@ -2,12 +2,13 @@
 
 ### App Description
 
-`TODO://` Add app description
+The UMD Introduce Self project opens a questionaire for UMD students and prompts
+a message based on responses upon clicking the introduce self button.
 
 ### App Walk-though
 
 
- <img src= "https://i.imgur.com/a/QrYv7E4.gif" title = 'Video Walkthrough' width='' alt = 'Video Walkthrough' /> 
+ <img src= "https://i.imgur.com/a/QrYv7E4.gif" title = 'Video Walkthrough' width='200' alt = 'Video Walkthrough' /> 
 
 
 ### Required Features
