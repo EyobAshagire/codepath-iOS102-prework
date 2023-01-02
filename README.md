@@ -7,7 +7,7 @@ a message based on responses upon clicking the introduce self button.
 
 ### App Walk-though
 
-<img src= "https://i.imgur.com/a/QrYv7E4" title = 'Video Walkthrough' width='200' height = '200' alt = 'Video Walkthrough' />
+<img src= "https://i.imgur.com/1XbAKou.gif" title = 'Video Walkthrough' width='200' height = '200' alt = 'Video Walkthrough' />
 <br>
 
 
